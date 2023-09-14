@@ -1,0 +1,15 @@
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ModuloTestesC\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
